@@ -1,0 +1,57 @@
+h3{
+    font-weight: bold;
+}
+.tags2{
+    border: 2px solid rgb(122, 6, 6);
+    width: 80px;
+    border-top-right-radius: 30%;
+    background-color: rgb(122, 6, 6);
+    color: white;
+    }
+.tags{
+border: 10px solid rgb(122, 6, 6);
+width: 100px;
+border-top-right-radius: 45%;
+background-color: rgb(122, 6, 6);
+color: white;
+}
+.cards
+{
+    position: relative;
+    width: auto;
+    height: 500px;
+    background-color: grey;
+}
+.title{
+color: white;
+margin-left: 400px;
+text-align: right;
+}
+.circle{
+    margin-left: 800px;
+    color: white;
+    border: black solid 20px;
+    background-color: black;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 5px;
+}
+.cards2
+{
+    position: relative;
+    width: auto;
+    height: 300px;
+    background-color: grey;
+}
+.bolds
+{
+    font-weight: 900;
+    font-size: large
+}
+.cards3
+{
+    position: relative;
+    width: auto;
+    height: 250px;
+    background-color: grey;
+}
